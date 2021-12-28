@@ -19,7 +19,7 @@
         {
           "text": "CmsKitManagement",
           "items": [{
-            "text": "安裝",
+            "text": "Install",
             "path": "Modules/CmsKitManagement/how-to-Install.md"
           }]
         }
