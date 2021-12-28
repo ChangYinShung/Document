@@ -5,14 +5,12 @@
       "items": [
         {
           "text": "ThemeAlain",
-          "path": "Getting-Started.md",
           "items": [
             { "text": "nz-Tables", "path": "Angular/ThemeAlain/index.md" }
           ]
         },
         {
           "text": "Components",
-          "path": "Getting-Started.md",
           "items": [
             {
               "text": "Tables",
