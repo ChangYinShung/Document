@@ -4,6 +4,11 @@
       "DisplayName" : "zh-Hant",
       "Code" : "zh-Hant",
       "IsDefault": true
+    },
+	{
+      "DisplayName" : "en",
+      "Code" : "en",
+      "IsDefault": false
     }
   ]
 }
