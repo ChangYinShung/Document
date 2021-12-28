@@ -5,11 +5,20 @@
       "items": [
         {
           "text": "ThemeAlain",
-          "items": [{ "text": "Tables", "path": "Angular/ThemeAlain/index.md" }]
+          "path": "Getting-Started.md",
+          "items": [
+            { "text": "nz-Tables", "path": "Angular/ThemeAlain/index.md" }
+          ]
         },
         {
           "text": "Components",
-          "items": [{ "text": "Tables", "path": "Angular/Components/index.md" }]
+          "path": "Getting-Started.md",
+          "items": [
+            {
+              "text": "Tables",
+              "path": "Angular/Components/index.md"
+            }
+          ]
         }
       ]
     },
@@ -18,10 +27,12 @@
       "items": [
         {
           "text": "CmsKitManagement",
-          "items": [{
-            "text": "Install",
-            "path": "Modules/CmsKitManagement/how-to-Install.md"
-          }]
+          "items": [
+            {
+              "text": "安裝",
+              "path": "Modules/CmsKitManagement/how-to-Install.md"
+            }
+          ]
         }
       ]
     }
