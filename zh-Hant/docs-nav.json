@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "text": "Angular",
+      "items": [
+        {
+          "text": "ThemeAlain",
+          "items": [{ "text": "Tables", "path": "Angular/ThemeAlain/index.md" }]
+        },
+        {
+          "text": "Components",
+          "items": [{ "text": "Tables", "path": "Angular/Components/index.md" }]
+        }
+      ]
+    },
+    {
+      "text": "Modules",
+      "items": [
+        {
+          "text": "CmsKitManagement",
+          "items": {
+            "text": "安裝",
+            "path": "Modules/CmsKitManagement/how-to-Install.md"
+          }
+        }
+      ]
+    }
+  ]
+}

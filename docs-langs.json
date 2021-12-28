@@ -1,8 +1,8 @@
 {
   "Languages":[
     {
-      "DisplayName" : "English",
-      "Code" : "en",
+      "DisplayName" : "zh-Hant",
+      "Code" : "zh-Hant",
       "IsDefault": true
     }
   ]
