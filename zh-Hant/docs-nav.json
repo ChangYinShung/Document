@@ -6,7 +6,7 @@
         {
           "text": "ThemeAlain",
           "items": [
-            { "text": "nz-Tables", "path": "Angular/ThemeAlain/index.md" }
+            { "text": "nz-Tables", "path": "Angular/nz-table.md" }
           ]
         }
       ]

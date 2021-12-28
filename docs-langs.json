@@ -3,12 +3,12 @@
     {
       "DisplayName" : "zh-Hant",
       "Code" : "zh-Hant",
-      "IsDefault": false
+      "IsDefault": true
     },
 	{
       "DisplayName" : "en",
       "Code" : "en",
-      "IsDefault": true
+      "IsDefault": false
     }
   ]
 }
